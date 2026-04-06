@@ -5,7 +5,7 @@ AI Researcher & Engineer | Agentic AI · Multimodal Learning · HCI · Embodied 
 · 📧 bowen.zhang.sgcc@outlook.com · [GitHub](https://github.com/zbw123456)
 
 ## About
-I work at the intersection of AI research and real-world engineering, with experience across academic labs and large-scale industry systems.  
+I am working at the intersection of AI research and real-world engineering, with experience across academic labs and large-scale industry systems.  
 My work focuses on building robust, human-centered intelligent systems that combine language, perception, and interaction.
 
 ## Interests
