@@ -16,8 +16,8 @@ My work focuses on building robust, human-centered intelligent systems that comb
 - Applied AI systems for healthcare and industrial scenarios
 
 ## Selected Work
-- **Struct-ENA**: Modeling Structural Dynamics of Parent-Child Homework Interactions for Generative AI Simulations (2026, Preprint)
-- **A Biomimetic Interactive Robot Control System Based on Multimodal Affect Recognition** (2026, Preprint)
+- **Struct-ENA**: Modeling Structural Dynamics of Parent-Child Homework Interactions for Generative AI Simulations (2026, submitted in ACM IMWUT)
+- **A Biomimetic Interactive Robot Control System Based on Multimodal Affect Recognition** (IEEE ARM 2026, accepted)
 - **CL-RAG**: A Closed-Loop Multimodal Retrieval-Augmented Generation Architecture for Robust Human-Robot Control Interaction (2025, WRC SARA)
 
 ## Experience Highlights
@@ -36,6 +36,3 @@ My work focuses on building robust, human-centered intelligent systems that comb
 **ML:** PyTorch, TensorFlow, Keras  
 **Systems:** Linux, Git/SVN, MATLAB/Simulink
 
-## Links
-- GitHub: https://github.com/zbw123456
-- IEEE Author Profile: (add your direct link)
