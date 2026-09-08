@@ -15,10 +15,26 @@ My work focuses on building robust, human-centered intelligent systems that comb
 - Embodied intelligence and robot interaction
 - Applied AI systems for healthcare and industrial scenarios
 
-## Selected Work
-- **Struct-ENA**: Modeling Structural Dynamics of Parent-Child Homework Interactions for Generative AI Simulations (2026, submitted in ACM IMWUT)
-- **A Biomimetic Interactive Robot Control System Based on Multimodal Affect Recognition** (IEEE ARM 2026, accepted)
-- **CL-RAG**: A Closed-Loop Multimodal Retrieval-Augmented Generation Architecture for Robust Human-Robot Control Interaction (2025, WRC SARA)
+## Publications & Preprints
+
+- **A Circuit, Not The Circuit: Non-Unique Causal Localisation of the Mamba-2 State Sink**  
+  *Under review at Transactions on Machine Learning Research (TMLR), 2026.*
+
+- **Struct-ENA: Modeling Structural Dynamics of Parent–Child Homework Interactions for Generative AI Simulations**  
+  *Under review at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026.*
+
+- **PSED-Net: An Enhanced Detection Network for Low-Quality Small Defects on Precision Sensor Metal Surfaces**  
+  *Submitted to Engineering Applications of Artificial Intelligence, 2026.*
+
+- **A Bimodal Interactive Robot Control System Based on Multimodal Affect Recognition**  
+  *IEEE ARM 2026 — Accepted, First Author.*
+
+- **From In-Home Audio to Interaction Networks: Discovering Structural Patterns of Parent–Child Homework Activities**  
+  *ACM UbiComp/ISWC Companion 2026, HASCA Workshop — Accepted, Third Author.*  
+  [[DOI](https://doi.org/10.1145/3798063.3842612)]
+
+- **CL-RAG: A Closed-Loop Multimodal Retrieval-Augmented Generation Architecture for Robust Human–Robot Control Interaction**  
+  *WRC SARA 2025 — First Author.*
 
 ## Experience Highlights
 - CNRS & Université Paris 8 — LLM tools for corpus linguistics
