@@ -31,7 +31,6 @@ My work focuses on building robust, human-centered intelligent systems that comb
 
 - **From In-Home Audio to Interaction Networks: Discovering Structural Patterns of Parent–Child Homework Activities**  
   *ACM UbiComp/ISWC Companion 2026, HASCA Workshop — Accepted, Third Author.*  
-  [[DOI](https://doi.org/10.1145/3798063.3842612)]
 
 - **CL-RAG: A Closed-Loop Multimodal Retrieval-Augmented Generation Architecture for Robust Human–Robot Control Interaction**  
   *WRC SARA 2025 — First Author.*
