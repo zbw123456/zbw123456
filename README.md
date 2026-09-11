@@ -18,7 +18,7 @@ My work focuses on building robust, human-centered intelligent systems that comb
 ## Publications & Preprints
 
 - **A Circuit, Not The Circuit: Non-Unique Causal Localisation of the Mamba-2 State Sink**  
-  *Under review at Transactions on Machine Learning Research (TMLR), 2026.*
+  *Manuscript under double-blind review at Transactions on Machine Learning Research (TMLR), 2026.*
 
 - **Struct-ENA: Modeling Structural Dynamics of Parent–Child Homework Interactions for Generative AI Simulations**  
   *Under review at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026.*
