@@ -36,7 +36,7 @@ My work focuses on building robust, human-centered intelligent systems that comb
   *WRC SARA 2025 — First Author.*
 
 ## Experience Highlights
-- CNRS & Université Paris 8 — LLM tools for corpus linguistics
+- CNRS — LLM tools for corpus linguistics
 - GPI S.p.a — Speech emotion recognition for telehealth AI agent
 - CiMeC — Eye-tracking and gaze-contingent HCI experiments
 - FBK — Sensor systems and quantum machine learning
